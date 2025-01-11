@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "whiteboard/whiteboard_01"
+	$reflectivity "[ 0.2 0.2 0.2 ]" 
+}

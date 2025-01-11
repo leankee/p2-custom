@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Castle/wood_3"
+	"$surfaceprop" "wood"
+	"%keywords" "Portal 2 Castle"
+	"%noportal" 1
+}

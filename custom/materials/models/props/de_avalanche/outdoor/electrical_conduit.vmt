@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$basetexture "models/props/de_avalanche/outdoor/electrical_conduit"
+	$surfaceprop Metal
+
+	$envmap "environment maps/metal_generic_004"
+	$envmaptint "[0.05 0.05 0.05]"
+	$envmapsaturation 0.8
+	$envmapfresnel 0.53
+	$envmaplightscale 0.8
+}

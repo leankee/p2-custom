@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "credits/intro_credits_aperturetag"
+	"$translucent" 1
+	"$surfaceprop" "glass"
+	"%keywords" "aperturetag"
+	"$decal" "1"
+}

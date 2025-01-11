@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+{
+
+	"$baseTexture" "models\PG_props\pg_park/pg_felsenformation"
+	"$bumpmap" "models\PG_props\pg_park/pg_felsenformation_bump"
+        "$surfaceprop" "stone"
+	"$model" 1
+
+	"$phong" "1"
+	"$phongexponent" 33
+	"$phongboost"	"6"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+
+}
+

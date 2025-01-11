@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+$baseTexture "truman/plastic_sky"
+$surfaceprop plastic
+}

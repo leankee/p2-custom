@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 	"models/portal_stories/props/ceil_plaster_div"
+	"$bumpmap" 		"models/portal_stories/props/ceil_plaster_normal"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+$basetexture "sp_junkyard/giant_rats"
+$decal 1
+$translucent 1
+"%keywords" rat
+}

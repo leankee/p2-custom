@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/portal_stories/props/revolvingdoor/revdoor_housing_window"
+	"$surfaceprop" "Glass"
+	"$translucent" 1
+}

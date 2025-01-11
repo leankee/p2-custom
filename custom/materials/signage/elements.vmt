@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+$basetexture "signage/elements"
+$decal 1
+$translucent 1
+"%keywords" labs
+}

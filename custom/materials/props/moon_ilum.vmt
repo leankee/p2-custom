@@ -1,0 +1,9 @@
+UnlitGeneric
+{
+	$basetexture "props/moon_ilum"
+	"%noportal" 1
+	"%keywords" "moon,portal stories"
+	$nofog 1
+	$translucent 1
+	 $selfillum 1
+}

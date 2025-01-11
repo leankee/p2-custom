@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+$basetexture "models/portal_stories/props/glasswindow_frosted_003"
+$bumpmap "models/portal_stories/props/glasswindow_frosted_003_normal.vmt"
+$surfaceprop glass
+"%keywords" portal
+$envmap env_cubemap
+$envmaptint "[.20 .30 .35]"
+$additive 1
+$translucent 1
+}

@@ -1,0 +1,8 @@
+
+"VertexLitGeneric"
+{
+$baseTexture "models/portal_stories/props/hotel_mirror001.vtf"
+$envmap env_cubemap
+$basealphaenvmapmask 1
+$envmaptint "[.95 .95 .95]"
+}

@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture "models/portal_stories/glasswindow_frosted_004"
+	$envmap "metal/black_wall_envmap_002a_hdr"
+	$envmapmask "glass/glasswindow_frosted_002b_mask"
+
+	$envmapsaturation .1
+	$envmaptint "[ .1 .2 .3 ]"
+	
+	$surfaceprop glass
+	"%keywords" portal
+	
+	$additive 1
+	$alphastest 1
+	$nocull 1
+}

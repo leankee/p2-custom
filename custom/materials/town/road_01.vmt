@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "town/road_01"
+	"$surfaceprop" "Concrete"
+	"%keywords" "town"
+}

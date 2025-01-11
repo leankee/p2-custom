@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/props_underground/lamp_wall_small001"
+	"$bumpmap" "models/props_underground/lamp_wall_small001_normal"
+	"$selfillum" 1
+}

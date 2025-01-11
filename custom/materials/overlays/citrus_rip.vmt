@@ -1,0 +1,7 @@
+LightMappedGeneric
+{
+$basetexture "overlays/citrus_rip"
+$surfaceprop default
+$translucent 1
+$decal 1
+}

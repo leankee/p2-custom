@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"models/nauz/palmleaf2"
+	"$selfIllum"			0
+	"$alphatest"			1
+	"$alpha"				1
+"$nocull" 1
+}

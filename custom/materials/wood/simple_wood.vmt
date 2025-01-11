@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"wood/simple_wood"
+	"$surfaceprop" "plaster"
+	"$bumpmap" "plaster/offwllb_normal"
+	"$envmapcontrast" "1"
+
+}

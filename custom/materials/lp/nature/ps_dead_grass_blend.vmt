@@ -1,0 +1,12 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "Lp/nature/deadgrass"
+	"$surfaceprop" "grass"
+	
+	"$basetexture2" "Lp/nature/path_02_div_deadgrass" 
+	"$surfaceprop2" "stone"
+
+	%tooltexture "Lp/nature/grass_path_tool"
+	%keywords "portalstories"
+	%noportal 1
+}

@@ -1,0 +1,13 @@
+LightMappedGeneric
+{
+$basetexture "valhalla/metal/factory_metal_floor002a"
+$surfaceprop Basementmetal
+$bumpmap "valhalla/metal/factory_metal_floor002a_ssbump"
+$ssbump 1
+$envmaplightscale 1
+$envmap env_cubemap
+"%keywords" "portal2 bts"
+"%noportal" 1
+$envmaptint ".8 .8 .8"
+$normalmapalphaenvmapmask 1
+}

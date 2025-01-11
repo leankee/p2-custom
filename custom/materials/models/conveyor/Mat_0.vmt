@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture "models/conveyor/conveyor_01_color"
+	$bumpmap "models/conveyor/conveyor_01_rough"
+
+	$envmap "env_cubemap"
+	$basealphaenvmapmask 1
+	$envmaptint "[0.70 0.70 0.70]"
+
+	$phong 1
+	$phongfresnelranges "[0.2 0.6 1]"
+	$halflambert 1
+	$phongexponent 10
+	$phongboost 8
+	$phongalbedoboost 0
+}

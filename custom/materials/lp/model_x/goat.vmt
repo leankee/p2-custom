@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+$basetexture "models/Lp/model_x/dark_marble"
+$surfaceprop metal
+
+LightmappedGeneric_HDR_DX9
+{
+$envmap env_cubemap
+}
+LightmappedGeneric_DX9
+{
+$envmap env_cubemap
+}
+}

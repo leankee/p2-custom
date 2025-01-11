@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+$basetexture "signage/qr_citrus"
+$decal 1
+$translucent 1
+"%keywords" lobby
+}

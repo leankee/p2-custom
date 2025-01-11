@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+
+$basetexture "Glass/glasswindow005b"
+$envmap "env_cubemap"
+$envmapmask "town/glasswindow005_mask"
+$selfillum 1
+$surfaceprop glass
+"%keywords" town
+}

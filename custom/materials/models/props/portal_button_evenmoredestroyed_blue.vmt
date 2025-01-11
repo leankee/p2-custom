@@ -1,0 +1,11 @@
+VertexlitGeneric
+{
+$basetexture "models\props\portal_button_evenmoredestroyed_blue"
+$surfaceprop metal
+$selfIllum 1
+
+
+
+
+
+}

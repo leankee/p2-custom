@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$basetexture "models/props_office/office_swing_door_colorable"
+$surfaceprop default
+$blendtintbybasealpha 1
+}

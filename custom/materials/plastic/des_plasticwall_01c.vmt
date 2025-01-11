@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "plastic/des_plasticwall_01c"
+	$ssbump 1
+	"$bumpmap" "plastic/des_plasticwall_01c_ssbump"
+	"%noportal" 1
+
+}

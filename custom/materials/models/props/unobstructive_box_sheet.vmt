@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+"$basetexture"		"models/props/unobstructive_box_sheet"
+"$bumpmap"		"models\props\Metal_box_normal"
+"$phong"			1
+"$basemapalphaphongmask"	1
+"$phongexponenttexture"	"models\props\Metal_box_exponent"
+"$phongboost"		.0625
+"$phongfresnelranges"	"[5 1 2]"
+"$model"			1
+"$nodecal"		1
+}

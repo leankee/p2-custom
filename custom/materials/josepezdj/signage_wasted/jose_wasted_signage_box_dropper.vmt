@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+"$basetexture" "josepezdj/signage_wasted/jose_wasted_signage_box_dropper"
+$surfaceprop glass
+
+$decal 1
+$decalscale 0.25
+"%keywords" portal2
+}
+

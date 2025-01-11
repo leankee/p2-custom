@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+$basetexture "models/props/camera_off"
+$surfaceprop metal
+$bumpmap "models/props/metal_box_normal"
+$phong 1
+
+$phongboost 4
+
+$phongfresnelranges "[1 1.5 2]"
+}

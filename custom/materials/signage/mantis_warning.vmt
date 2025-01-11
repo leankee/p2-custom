@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+$basetexture "signage/mantis_warning"
+$decal 1
+$translucent 1
+"%keywords" mantis
+}

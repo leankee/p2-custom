@@ -1,0 +1,4 @@
+"vertexlitgeneric" {
+    "$basetexture" "models/nikl/mushroom"
+    "$model" 1
+}

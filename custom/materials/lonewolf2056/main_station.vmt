@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+  {
+  "$basetexture" "LoneWolf2056\main_station"
+  "$decal" 1
+  "$decalscale" 0.25
+  "$translucent" 1
+  }

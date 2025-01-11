@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	// Original shader: DecalBaseTimesLightmapAlphaBlend
+	"$translucent" 1
+	"$basetexture" "signage/danger_tram"
+	"$decal" 1
+	"$decalscale" .25
+//trams be going choo choo all day and night
+}

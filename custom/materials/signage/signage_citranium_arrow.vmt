@@ -1,0 +1,6 @@
+LightMappedGeneric
+{
+$basetexture "signage/signage_citranium_arrow"
+$surfaceprop glass
+"%keywords" tag
+}

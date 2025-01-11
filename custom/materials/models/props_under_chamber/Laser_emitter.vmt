@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$basetexture "models/props_under_chamber/Laser_emitter"
+$bumpmap "models/props_under_chamber/Laser_emitter_normal"
+$selfillum 1
+}

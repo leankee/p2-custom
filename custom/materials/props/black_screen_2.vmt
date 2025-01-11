@@ -1,0 +1,16 @@
+LightMappedGeneric
+{
+$basetexture "props/black_screen_2"
+$surfaceprop glass
+"%noportal" 1
+
+"Proxies" 
+{ 
+"AnimatedTexture" 
+{ 
+"animatedTextureVar" "$basetexture" 
+"animatedTextureFrameNumVar" "$frame" 
+"animatedTextureFrameRate" "1" 
+}
+}
+}

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$basetexture "models/crane/construction_crane_04"
+$surfaceprop default
+}

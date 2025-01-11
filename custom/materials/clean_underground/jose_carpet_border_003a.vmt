@@ -1,0 +1,7 @@
+LightMappedGeneric
+{
+$basetexture "clean_underground/jose_carpet_border_003a"
+$surfaceprop default
+$translucent 1
+$decal 1
+}

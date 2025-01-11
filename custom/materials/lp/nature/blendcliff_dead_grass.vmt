@@ -1,0 +1,13 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "nature/cliffface002a"
+	"$surfaceprop" "stone"
+	
+	"$basetexture2" "Lp/nature/deadgrass"
+	"$surfaceprop2" "grass"
+
+	"%tooltexture" "nature/blendcliffgrass001a_tooltexture"
+	
+	%keywords "portalstories"	
+	%noportal 1
+}

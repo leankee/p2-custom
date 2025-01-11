@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+$basetexture "clean_underground/aperture_logo_1940"
+$decal 1
+$translucent 1
+"%keywords" cleanunderground
+}

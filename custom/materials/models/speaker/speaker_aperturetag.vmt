@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+$basetexture "models/speaker/speaker_aperturetag"
+$bumpmap "models/speaker/speaker_aperturetag_normal"
+}

@@ -1,0 +1,6 @@
+LightMappedGeneric
+{
+$basetexture "wood/underground_woodwall003b_clean"
+$surfaceprop wood
+"%keywords" "portal2 underground"
+}

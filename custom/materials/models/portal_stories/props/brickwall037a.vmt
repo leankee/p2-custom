@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/portal_stories/props/brickwall037a"
+	"$bumpmap" "models/portal_stories/props/brickwall037a_normal"
+	"$surfaceprop" "Brick"
+}

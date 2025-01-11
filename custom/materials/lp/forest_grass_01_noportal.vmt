@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+$baseTexture "nature/forest_grass_01"
+$surfaceprop dirt
+"%keywords" ep2
+"%noportal" 1
+}

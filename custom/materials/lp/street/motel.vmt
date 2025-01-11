@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Lp/street/motel"
+	$selfillum 1
+	$translucent 1
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$basetexture "models/props_office/cubicle_desk_drawers_colorable"
+$surfaceprop metal
+$blendtintbybasealpha 1
+}

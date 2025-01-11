@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+$baseTexture "models\Props\cs_office\doorknob"
+$envmap env_cubemap
+$envmapmask "models\Props\cs_office\doorknob_ref"
+$envmaptint "[1 1 1]"
+}

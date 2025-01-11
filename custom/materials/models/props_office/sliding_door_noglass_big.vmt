@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$basetexture "models/props_office/sliding_door_noglass_big"
+$surfaceprop default
+"%keywords" ASM
+}

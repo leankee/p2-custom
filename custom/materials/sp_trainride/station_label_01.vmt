@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+$basetexture "sp_trainride/Station_Label_01"
+$decal 1
+$translucent 1
+"%keywords" sp_trainride
+}

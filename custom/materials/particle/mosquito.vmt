@@ -1,0 +1,6 @@
+SpriteCard
+{
+$basetexture "particle/mosquito.vtf"
+$vertexcolor 1
+$color2 "[1 1 1]"
+}

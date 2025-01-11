@@ -1,0 +1,14 @@
+
+
+"Refract"
+{
+	"$bluramount" "1"
+	"$normalmap" "models\gaming-models\nebukadnezar\environment\outdoors\glass"
+	"$surfaceprop" "glass"
+	"$envmap" "env_cubemap"
+	"$refractamount" ".300"
+	"$scale" "[1 1]"
+	"$model" 1
+	"$additive" 1
+	"$envmaptint" "[.4 .4 .4]"
+}

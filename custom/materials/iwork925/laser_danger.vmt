@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+  {
+  "$basetexture" "iwork925\laser_danger"
+  "$decal" 1
+  "$decalscale" 0.25
+  "$translucent" 1
+  }

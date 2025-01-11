@@ -1,0 +1,6 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props_bts/scaffolding_system2"
+$color 1.2
+}

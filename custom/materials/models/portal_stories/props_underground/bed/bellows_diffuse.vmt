@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/portal_stories/props_underground/bed/bellows_diffuse"
+	"$envmap" env_cubemap
+	$basealphaenvmapmask 1
+}

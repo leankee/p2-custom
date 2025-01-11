@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+
+"$baseTexture" "models\gaming-models\nebukadnezar\environment\outdoors\lantern_diffuse_512"
+"$bumpmap" "models\gaming-models\nebukadnezar\environment\outdoors\lantern_normal_512"
+"$model" 1
+"$phong" "1"
+"$phongexponent" "10"
+"$phongboost" "20"
+"$phongfresnelranges" "[.0205 .5 5]"
+
+}

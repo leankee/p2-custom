@@ -1,0 +1,13 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "nature/dirtfloor006a"
+	"$surfaceprop" "grass"
+	
+	"$basetexture2" "Lp/nature/path_02_div" 
+	"$surfaceprop2" "stone"
+	"$bumpmap2" "path_01_normal"
+
+	%tooltexture "Lp/nature/grass_path_tool"
+	%keywords "portalstories"
+	%noportal 1
+}

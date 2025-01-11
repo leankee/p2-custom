@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+$basetexture "clean_underground/underground_50s_welcome"
+$decal 1
+$translucent 1
+"%keywords" cleanunderground
+}

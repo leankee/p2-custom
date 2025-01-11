@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "signage/subway_sign_01"
+	$reflectivity "[ 0.11 0.11 0.11 ]" 
+	"%noportal" 1	
+	"%keywords" "tramride portalstories"
+}

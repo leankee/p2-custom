@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	$basetexture		"models/portal_stories/props_finale/server_02"
+	$envmap 			env_cubemap
+	$envmapmask	 	"models/portal_stories/props_finale/server_spec"
+	$blendtintbybasealpha	1
+}

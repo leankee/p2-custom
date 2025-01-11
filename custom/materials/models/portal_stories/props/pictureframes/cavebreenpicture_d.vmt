@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/portal_stories/props/pictureframes/cavebreenpicture"
+	"$envmapmask" "models/portal_stories/props/pictureframes/cavebreenpicture_spec"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.75 0.75 0.75]"
+	"$envmapcontrast" "0.1"
+}

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "Models/portal_stories/props_underground/caroline"
+	$surfaceprop wood
+}

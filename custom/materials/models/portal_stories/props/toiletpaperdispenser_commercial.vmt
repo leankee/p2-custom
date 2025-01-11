@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+$baseTexture "models\portal_stories/props/ToiletPaperDispenser_Commercial"
+$envmap env_cubemap
+$envmapmask "models\portal_stories\props\ToiletPaperDispenser_Commercial_ref"
+$envmaptint "[0.1 0.1 0.1]"
+}

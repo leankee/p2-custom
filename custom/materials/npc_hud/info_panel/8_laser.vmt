@@ -1,0 +1,5 @@
+"UnLitGeneric"
+{
+	"$basetexture" "npc_hud/info_panel/8_laser"
+	$additive 1
+}

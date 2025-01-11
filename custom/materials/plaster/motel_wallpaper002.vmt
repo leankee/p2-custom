@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"plaster\motel_wallpaper002"
+	"$surfaceprop" "plaster"
+	"$bumpmap" "plaster/offwllb_normal"
+	"$envmapcontrast" "1"
+
+}

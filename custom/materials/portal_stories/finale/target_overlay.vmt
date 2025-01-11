@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "portal_stories\finale\target_overlay"
+	$surfaceprop wood
+	"%keywords" finale
+	"$translucent" 1
+	"%noportal" 1
+}

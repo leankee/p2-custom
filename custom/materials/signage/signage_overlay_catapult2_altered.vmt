@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+$basetexture "signage_overlay_catapult2_Altered"
+$decal 1
+$surfaceprop glass
+$selfillum 1
+"%keywords" portal
+}

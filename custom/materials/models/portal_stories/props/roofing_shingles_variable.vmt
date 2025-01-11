@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+$basetexture "models/portal_stories/props/roofing_shingles_variable"
+$bumpmap "models/portal_stories/props/roofing_shingles_variable_normal"
+$ssbump 1
+"%keywords" portal
+}

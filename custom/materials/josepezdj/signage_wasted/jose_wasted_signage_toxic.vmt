@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+"$basetexture" "josepezdj/signage_wasted/jose_wasted_signage_toxic"
+$surfaceprop glass
+$decalscale 0.25
+"%keywords" portal2
+}
+

@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "truman/red_sun"
+"$translucent" 1
+$surfaceprop concrete
+}

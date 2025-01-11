@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/portal_stories/aegis/texture_head"
+	"$bumpmap" "models/portal_stories/aegis/texture_head_normal"
+	"$envmap" env_cubemap
+	$normalmapalphaenvmapmask 1
+	$surfaceprop metal
+	
+	$selfillum 1
+	$selfillummaskscale 3
+}

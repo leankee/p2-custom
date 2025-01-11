@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Lp/yellow_screen"
+	$surfaceprop concrete
+	"%keywords" SFM
+	"$selfillum" 1
+}

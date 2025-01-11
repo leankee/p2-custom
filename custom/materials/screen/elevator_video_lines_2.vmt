@@ -1,0 +1,9 @@
+LightMappedGeneric
+{
+$basetexture "screen/elevator_video_lines_2"
+$surfaceprop glass
+$decal 1
+"%noportal" 1
+$translucent 1
+$texture2 "dev/dev_scanline"
+}

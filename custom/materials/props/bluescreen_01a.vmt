@@ -1,0 +1,14 @@
+"unlitgeneric"
+{
+"$baseTexture" "props/bluescreen_01a"
+"$surfaceprop" "glass"
+"Proxies" 
+{ 
+ToggleTexture
+{
+toggleTextureVar $baseTexture
+toggleTextureFrameNumVar $frame
+toggleTextureShouldWrap 0
+}
+}
+}

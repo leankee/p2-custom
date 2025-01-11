@@ -1,0 +1,44 @@
+VertexLitGeneric
+{
+	$basetexture "models/props/mona_floaty_base"
+	"$surfaceprop" "metal"
+	$selfillum 1
+	//$bumpmap "models/props/mona_floaty_normal"
+	$envmap			env_cubemap
+	//$envmapmask		"models_props/mona_floaty_spec"
+	"$envmaptint" "[30 30 30]"
+	"$envmapcontrast" "1"
+	"$envmapsaturation" "1"
+	$selfillummask "models/props/mona_floaty_emis"
+
+	"$selfillumtint" "[1 1 1]"
+	"$brightness" "1"
+
+    Proxies
+    {
+        Sine
+        {
+            resultVar "$brightness"
+            timeoffset 1
+            sineperiod    2
+            sinemin        0
+            sinemax        10
+        }
+    Equals
+        {
+        srcVar1 $brightness
+        resultVar "$selfillumtint[0]"
+        }
+    Equals
+        {
+        srcVar1 $brightness
+        resultVar "$selfillumtint[1]"
+        }
+    Equals
+        {
+        srcVar1 $brightness
+        resultVar "$selfillumtint[2]"
+        }
+    }
+
+}

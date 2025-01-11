@@ -1,0 +1,6 @@
+LightMappedGeneric
+{
+$baseTexture "signage/indicator_un"
+$surfaceprop glass
+"%keywords" portal2
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "twp_turret/sun_01"
+	$translucent 1
+	"$decal" 1
+}

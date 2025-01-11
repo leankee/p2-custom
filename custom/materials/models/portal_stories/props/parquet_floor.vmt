@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"portal_stories/parquet_floor_div"
+	"$bumpmap" 		"portal_stories/parquet_floor_normal"
+	"$surfaceprop" 	"wood"
+	"%noportal" 1
+}

@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Lp/decals/foodfacts"
+	"$translucent" 1
+	"$decal"	"1"
+	$surfaceprop default
+	"%keywords" "Lp"
+	%noportal "1"
+}

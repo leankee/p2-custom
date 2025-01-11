@@ -1,0 +1,24 @@
+LightmappedGeneric
+{
+$basetexture "tmast/jose_concrete_ceiling_lighter"
+$ssbump 1
+$bumpmap "tmast/jose_concrete_ceiling_Normal"
+$envmap "metal/black_wall_envmap_002a"
+$detail "detail/dt_conc"
+$detailscale 0.25
+$detailblendfactor .25
+$detailblendmode 7
+
+hdr
+{
+$envmap "metal/black_wall_envmap_002a_hdr"
+}
+$envmapcontrast 1
+$envmapsaturation .2
+$envmaptint "[.2 .2 .2 ]"
+$normalmapalphaenvmapmask 1
+$envmaplightscale .6
+$reflectivity "[ 0.22 0.22 0.22 ]" 
+"%noportal" 1
+"%keywords" "portal2 noportal chamber"
+}

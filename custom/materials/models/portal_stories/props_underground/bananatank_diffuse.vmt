@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+
+$basetexture "Models/portal_stories/props_underground/BananaTank_diffuse"
+
+
+$surfaceprop metal
+}

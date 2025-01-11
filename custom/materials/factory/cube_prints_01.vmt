@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+$basetexture "factory/cube_prints_01"
+$decal 1
+$translucent 1
+"%keywords" factory
+}

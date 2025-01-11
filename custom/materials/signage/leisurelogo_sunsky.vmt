@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+$basetexture "signage/leisurelogo_sunsky"
+$decal 1
+$translucent 1
+"%keywords" leisure
+}

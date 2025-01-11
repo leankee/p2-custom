@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Lp/dark_marble"
+	$surfaceprop concrete
+	"%keywords" Lp
+	"%noportal" 1
+}

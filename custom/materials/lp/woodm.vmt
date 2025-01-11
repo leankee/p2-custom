@@ -1,0 +1,7 @@
+lightmappedGeneric
+{
+$baseTexture "de_chateau/woodm"
+$surfaceprop wood
+"%keywords" Lp
+"%noportal" 1
+}

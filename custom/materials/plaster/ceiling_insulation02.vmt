@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+$baseTexture "plaster/ceiling_insulation02"
+$surfaceprop plastic
+$envmap env_cubemap
+$envmapcontrast ".5"
+$envmaptint "[ .6 .6 .6 ]"
+$envmapsaturation ".7"
+$bumpmap "plaster\ceiling_insulation02-ssbump"
+$ssbump 1
+$normalmapalphaenvmapmask 1
+	"%noportal" 1
+}

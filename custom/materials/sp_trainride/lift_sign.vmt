@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+$basetexture "sp_trainride/Lift_Sign"
+$decal 1
+$translucent 1
+"%keywords" Litter
+}

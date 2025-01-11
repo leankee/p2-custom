@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$model" 1
+	"$basetexture" "models/camera/camera"
+	"$envmap" env_cubemap
+	"$envmapmask" "models/camera/camera_mask"
+}

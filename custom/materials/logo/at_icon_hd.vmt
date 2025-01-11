@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "logo/at_icon_hd"
+	"$translucent" 1
+	"$surfaceprop" "glass"
+	"%keywords" "aperturetag"
+	"$decal" "1"
+}

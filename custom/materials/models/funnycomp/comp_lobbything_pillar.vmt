@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/funnycomp/comp_lobbything_pillar_d"
+	$surfaceprop Metal
+
+	$envmap "env_cubemap"
+	$basealphaenvmapmask 1
+}

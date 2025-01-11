@@ -1,0 +1,13 @@
+LightMappedGeneric
+{
+$basetexture "clean_underground/lobby_tilefloor_1940_001a"
+$surfaceprop tile
+"%keywords" "clean_underground"
+$envmap env_cubemap
+$bumpmap "tile/observation_tilefloor001a-height-ssbump"
+$ssbump 1
+$envmaptint "[.2 .2 .2 ]"
+$normalmapalphaenvmapmask 1
+
+"%noportal" 1
+}

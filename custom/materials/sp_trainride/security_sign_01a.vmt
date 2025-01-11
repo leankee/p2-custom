@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+$basetexture "sp_trainride/Security_Sign_01a"
+$decal 1
+$translucent 1
+"%keywords" Security
+}

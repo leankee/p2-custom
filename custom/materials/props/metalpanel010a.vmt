@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmapSelfIllum
+	"$basetexture" "Props/metalpanel010a"
+	"$selfillum" 1
+	"$surfaceprop" "metal"
+	"%keywords" "borealis"
+	"%noportal" 1 
+}

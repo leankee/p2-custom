@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/portal_stories/aegis/texture_details"
+	$surfaceprop metal
+}

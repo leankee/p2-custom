@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+$basetexture "clean_underground/plaster_wall007b"
+$surfaceprop plaster
+%noportal 1
+"%keywords" cleanunderground
+}

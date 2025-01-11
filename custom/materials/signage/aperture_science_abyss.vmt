@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+$basetexture "signage/aperture_science_abyss"
+$decal 1
+$translucent 1
+"%keywords" lobby
+}

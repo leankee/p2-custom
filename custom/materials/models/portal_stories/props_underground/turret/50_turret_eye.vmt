@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$selfillum" "1" 
+	"$selfillumtexture" "models/portal_stories/props_underground/turret/50_turret_eye_ilum"
+	"$basetexture" "models/portal_stories/props_underground/turret/50_turret_eye_diffuse"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/portal_stories/props_underground/turret/50_turret_eye_spec"
+	"$normalmap" "models/portal_stories/props_underground/turret/50_turret_eye_normal"
+	"$surfaceprop" "Metal_Box"
+}

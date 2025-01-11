@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/portal_stories/props/wood_table"
+$basealphaenvmapmask 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.2 0.2 0.2]"
+	"$envmapcontrast" "0.1"
+}

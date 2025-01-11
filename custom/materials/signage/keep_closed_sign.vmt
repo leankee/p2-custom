@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$basetexture" "signage/keep_closed_sign"
+	"$decal" 1
+	"$decalscale" .25
+}

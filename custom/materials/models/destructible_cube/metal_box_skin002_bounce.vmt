@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+$baseTexture "models/destructible_cube/destructible_cube_1_color"
+$bumpmap "paint/prop_paint_normal"
+$envmap "paint/paint_envmap_hdr"
+$envmaptint "[0.05 0.05 0.05]"
+$normalmapalphaenvmapmask 1
+$detail "paint/prop_paint_blue"
+$detailScale 1
+$detailblendmode 2
+$phong 1
+$phongfresnelranges "[0.66 0.83 1]"
+$halflambert 1
+$phongexponent 79
+$phongboost 3.44
+$selfillum 1
+$selfillummask "models/destructible_cube/destructible_cube_1_selfillum"
+$selfillumtint "[0.50 0.50 0.50]"
+}

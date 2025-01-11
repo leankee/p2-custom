@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+$basetexture "signage/emergency_02"
+$surfaceprop default
+$translucent 1
+$decal 1
+}

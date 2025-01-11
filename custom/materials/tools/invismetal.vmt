@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"tools\invismetal"
+	"$translucent" "1"
+	"%compilepassbullets" 1
+	$surfaceprop metalgrate
+	"%compilenodraw" 1
+}

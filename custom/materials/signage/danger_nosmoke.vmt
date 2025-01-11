@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	// Original shader: DecalBaseTimesLightmapAlphaBlend
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" .25
+	"$surfaceprop" metal
+	"$basetexture" "signage/danger_nosmoke"
+                "%keywords" "sign"
+}

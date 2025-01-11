@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+$basetexture "tmast/pic_01"
+%noportal 1
+}

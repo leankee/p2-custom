@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/portal_stories/props_underground/bed/1950/TVHousing_diffuse"
+	"$envmap" env_cubemap
+}

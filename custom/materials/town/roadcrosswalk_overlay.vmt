@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "town/roadcrosswalk_overlay"
+	"$translucent" 1
+	"$decal" 1
+	"$surfaceprop" "Concrete"
+	"%keywords" "town"
+}

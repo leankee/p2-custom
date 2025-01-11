@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$basetexture "models/props_under_chamber/laser_relay"
+$bumpmap "models/props_under_chamber/laser_relay_normal"
+}

@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$baseTexture "models\tag\w_models/portalgun/w_portalgun_orange"
+$surfaceprop metal
+$bumpmap "models\tag\w_models/portalgun/w_portalgun_normal"
+$phong 1
+$phongexponenttexture "models\tag\w_models/portalgun/w_portalgun_exponent"
+
+$phongboost 1
+
+$phongfresnelranges "[1 1.5 2]"
+
+
+
+
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/door_large_256/door_large_256_frame_diff"
+	"$bumpmap" "models/door_large_256/door_large_256_frame_nrm"
+}

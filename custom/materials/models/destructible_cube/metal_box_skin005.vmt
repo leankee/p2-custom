@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	$basetexture "models/destructible_cube/destructible_cube_1_dirty_color"
+	$bumpmap "models/destructible_cube/destructible_cube_dirty_normal"
+
+	$phong 1
+	$phongfresnelranges "[0.9 0.95 1]"
+	$halflambert 1
+	$phongexponent 587
+	$phongboost 0.27
+	$phongalbedoboost 0
+
+	$selfillum 1
+	$selfillummask "models/destructible_cube/destructible_cube_1_selfillum"
+}

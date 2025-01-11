@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+$basetexture "truman_hd/forest/forest0_trans"
+$decal 1
+$translucent 1
+}

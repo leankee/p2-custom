@@ -1,0 +1,8 @@
+Patch
+{
+	include materials\decals\letters_bts\base_shared.vmt
+	insert
+	{
+		$basetexture "decals\letters_bts\letter_g_overlay"
+	}
+}

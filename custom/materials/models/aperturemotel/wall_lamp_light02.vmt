@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$baseTexture "models/aperturemotel/wall_lamp_light02"
+$surfaceprop metal
+$selfillum 1
+}

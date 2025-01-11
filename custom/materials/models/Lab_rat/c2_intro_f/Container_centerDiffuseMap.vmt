@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Lab_rat/c2_intro_f/Container_centerDiffuseMap"
+	"$surfaceprop" "Metal"
+}

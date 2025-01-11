@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	// Original shader: BaseTexture
+	"$basetexture" "models/portal_stories/door01a"
+	"$basealphaenvmapmask" 1
+	"$surfaceprop" "wood"
+	"$envmap" "env_cubemap"
+
+
+}

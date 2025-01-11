@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "overlays/black_splat"
+	"$translucent" 1
+	"%keywords" "aptag"
+	"$decal" "1"
+}

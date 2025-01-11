@@ -1,0 +1,6 @@
+"VertexLitGeneric" 
+{
+$baseTexture "models\Props_Doors/DoorMainMetalWindow01"
+$envmap env_cubemap
+$envmapmask "models\Props_Doors/DoorMainMetalWindow01_ref"
+}

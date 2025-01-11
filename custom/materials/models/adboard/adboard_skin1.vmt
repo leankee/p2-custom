@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/adboard/adboard_1"
+	"$surfaceprop" "metal"
+}

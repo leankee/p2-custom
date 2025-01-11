@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+$basetexture "models/props/rogers_frame_base"
+$selfillum 1
+$bumpmap "models/props/rogers_frame_normal"
+$envmap			env_cubemap
+$envmapmask		"models_props/rogers_frame_spec"
+}

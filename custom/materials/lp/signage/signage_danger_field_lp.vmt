@@ -1,0 +1,5 @@
+LightMappedGeneric
+{
+$basetexture "signage/signage_danger_field"
+	"$decal"	"1"
+}

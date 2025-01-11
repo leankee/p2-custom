@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/portal_stories/expo/seamless_tile_512"
+	"$bumpmap" "models/portal_stories/expo/seamless_tile_512_normal"
+}

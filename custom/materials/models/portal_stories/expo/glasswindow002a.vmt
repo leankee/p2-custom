@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	$basetexture "glass/glasswindow002a"
+	$bumpmap "models/portal_stories/props/glasswindow002a_normal"
+    $surfaceprop glass
+    $translucent 1
+    $envmap env_cubemap
+}

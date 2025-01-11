@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+$baseTexture "truman/fake_black"
+$surfaceprop concrete
+}

@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	"$basetexture"	"container/container_lod_side"
+	"$surfaceprop" "metal"
+	"transparency" "1"
+}

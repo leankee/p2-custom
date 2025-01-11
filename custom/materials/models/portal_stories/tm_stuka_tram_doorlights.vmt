@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	$basetexture		models/portal_stories/tm_stuka_tram_doorlights
+	$selfillum		1
+
+	$bumpmap		models/portal_stories/tm_stuka_tram_n
+	$envmap			env_cubemap
+	$envmaptint		"[0.05 0.05 0.05]"
+	$normalmapalphaenvmapmask 1
+
+	$surfaceprop		metal
+}

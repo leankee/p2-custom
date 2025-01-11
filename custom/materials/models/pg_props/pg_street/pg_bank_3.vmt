@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\PG_props\pg_street/pg_bank_3"
+	"$bumpmap" "models\PG_props\pg_street/pg_bank_3_bump"
+        "$surfaceprop" "wood"
+	"$model" 1
+
+	"$phong" "1"
+	"$phongexponent" 6
+	"$phongboost"	"6"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+}

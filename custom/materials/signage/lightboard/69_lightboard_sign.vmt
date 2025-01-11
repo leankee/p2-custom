@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 	"lightboard/69_lightboard_sign"
+	"$surfaceprop" 	"glass"
+	"$selfillum"	"1"
+	"%keywords" 	"portal2"
+}

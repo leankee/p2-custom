@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$basetexture "models/vallachan/props_office/computer_tall02"
+$surfaceprop metal
+$blendtintbybasealpha 1
+}

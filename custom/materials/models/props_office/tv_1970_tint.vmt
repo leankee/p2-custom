@@ -1,0 +1,6 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props_office/TV_1970_tint"
+$blendtintbybasealpha 1
+}

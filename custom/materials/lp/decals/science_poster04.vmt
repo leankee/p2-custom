@@ -1,0 +1,9 @@
+LightMappedGeneric
+{
+$basetexture "Lp/decals/science_poster04"
+$surfaceprop default
+"$translucent" "1"
+"$decal"	"1"
+"%keywords" "portal2 office"
+"%noportal" 1
+}

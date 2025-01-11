@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "jayman/jayman5"
+	"$translucent" "1"
+	"$bumpmap" "concrete\concretefloor038b_normal"
+	"$normalmapalphaenvmapmask" 1
+	//"$alpha" "0.625"
+	//"$color" "{180 180 180}"
+	"%keywords" "aperturetag"
+	"$decal" "1"
+}

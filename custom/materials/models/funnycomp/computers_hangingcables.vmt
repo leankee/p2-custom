@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/funnycomp/computers_hangingcables_Diffuse"
+	$surfaceprop Metal
+
+	$envmap "env_cubemap"
+	$envmapfresnel 1
+	$envmaptint "[0.35 0.35 0.35]"
+	$basealphaenvmapmask 1
+}

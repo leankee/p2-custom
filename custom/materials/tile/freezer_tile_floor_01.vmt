@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+$baseTexture "Tile/1970_tile_floor_02"
+$surfaceprop metal
+"%keywords" portal2
+"%noportal" 0
+$bumpmap "tile/underground_white_tile002a_normal"
+$envmap "env_cubemap"
+}

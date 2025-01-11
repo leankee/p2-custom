@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "signage/Win70s_01"
+	"$surfaceprop" "paper"
+	"$translucent" 1
+"$decal" 1
+}

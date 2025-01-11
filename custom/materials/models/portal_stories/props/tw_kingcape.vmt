@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/portal_stories/props/tw_kingcape"
+	"$bumpmap" "models/portal_stories/props/tw_kingcape_n"
+	"$normalmap" "models/portal_stories/props/tw_kingcape_n"
+}

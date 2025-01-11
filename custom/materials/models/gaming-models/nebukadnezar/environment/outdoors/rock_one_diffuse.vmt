@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gaming-models\nebukadnezar\environment\outdoors\rock_one_diffuse"
+	"$bumpmap" "models\gaming-models\nebukadnezar\environment\outdoors\rock_1_normal"
+	"$envmap" "Env_Cubemap"
+//	"$envmaptint" "[.4 .4 .4]"
+	"$normalmapalphaenvmapmask" 1
+}

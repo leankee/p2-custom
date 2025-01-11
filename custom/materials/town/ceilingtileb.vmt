@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	"$basetexture"	"town/ceilingtileb"
+	"$surfaceprop" "ceiling_tile"
+	"%noportal" 1
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+$basetexture "clean_underground/sign_knowyour_chemicals"
+$decal 1
+$translucent 1
+"%keywords" cleanunderground
+}

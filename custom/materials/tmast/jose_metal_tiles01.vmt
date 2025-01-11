@@ -1,0 +1,24 @@
+LightMappedGeneric
+{
+$basetexture "tmast/jose_metal_tiles01"
+$bumpmap "tmast/jose_metal_tiles01_normal"
+$ssbump 1
+$reflectivity "[ 0.4 0.4 0.4 ]" 
+$envmap "metal/black_wall_envmap_002a"
+hdr
+{
+$envmap "metal/black_wall_envmap_002a_hdr"
+}
+$envmaplightscale 0.6
+
+$normalmapalphaenvmapmask 1
+$envmapcontrast 1.0
+$envmapsaturation 0.2
+$envmaptint "0.25 0.25 0.25"
+"%noportal" 1
+$detail "detail\metal_detail_01"
+$detailscale .5
+$detailblendfactor .2
+$detailblendmode 7
+"%keywords" "portal2 noportal chamber"
+}

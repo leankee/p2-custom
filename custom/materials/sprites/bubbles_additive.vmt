@@ -1,0 +1,6 @@
+SpriteCard
+{
+$basetexture "sprites\bubbles"
+$translucent 1
+$Additive 1
+}

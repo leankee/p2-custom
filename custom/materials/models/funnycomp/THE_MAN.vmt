@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$basetexture "models/funnycomp/THE_MAN_Diffuse"
+	$bumpmap "models/funnycomp/THE_MAN_Normal_DirectX"
+	$surfaceprop Plastic
+
+	$phong 1
+	$phongfresnelranges "[0.3 0.65 1]"
+	$phongexponent 4
+	$phongboost 0.8
+}

@@ -1,0 +1,14 @@
+LightMappedGeneric
+{
+$basetexture "clean_underground/lobby_wallpaper_01b"
+$surfaceprop default
+$bumpmap "clean_underground/lobby_wallpaper_01b_normal"
+
+$envmap env_cubemap
+
+$normalmapalphaenvmapmask 1
+$envmapcontrast 1
+$envmapsaturation 1
+$envmaptint .3 .3 .3
+"%noportal" 1
+}

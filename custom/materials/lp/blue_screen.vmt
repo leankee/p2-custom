@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "Lp/blue_screen"
+	$surfaceprop concrete
+	"%keywords" SFM
+	"$selfillum" 1
+}

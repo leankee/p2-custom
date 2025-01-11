@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\PG_props\pg_forest/pg_tree01_trunk"
+	"$bumpmap" "models\PG_props\pg_forest/pg_tree01_trunk_bump"
+	"$model" "1"
+
+	"$phong" "1"
+	"$phongexponent" "2"
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	
+
+
+}

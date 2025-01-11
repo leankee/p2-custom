@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$baseTexture "models/vallachan/npcs/rocket/rocket_sentry_eye_02"
+$selfillum 1
+}

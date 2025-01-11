@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+$baseTexture "models/CamBen\Valhalla\aperture/cable_bundle"
+$surfaceprop metal
+$bumpmap "models/CamBen\Valhalla\aperture/cable_bundle_n"
+
+
+$selfillum 0
+
+	"$phong"     "1"
+	"$phongexponent"  "70"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[.1 .6 1]"
+	"$phongtint"   "[.3 .3 .3]"
+}

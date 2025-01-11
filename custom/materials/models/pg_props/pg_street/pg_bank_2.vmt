@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\PG_props\pg_street/pg_bank_2"
+	"$bumpmap" "models\PG_props\pg_street/pg_bank_2_bump"
+	"$envmap"  "env_cubemap"
+        "$normalmapalphaenvmapmask" "1"
+        "$surfaceprop" "Metal"
+	"$model" 1
+
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture"	"signage/lightboard/chamber00_lightboard_sign"
+	"$surfaceprop"	"Glass"
+	"$selfillum"	"1"
+	"%keywords"		"lightboard"
+}

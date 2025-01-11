@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	$basetexture "particle/droplets/droplets"
+	$translucent 1
+	$DEPTHBLEND 1
+}

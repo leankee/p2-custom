@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	"$normalmap" "models\gaming-models\nebukadnezar\environment\outdoors\glass"
+	$basetexture "models/portal_stories/props/glasswindow_frosted_003"
+	$surfaceprop glass
+	$envmap env_cubemap
+	$envmaptint "[.4 .4 .4]"
+	$additive 1
+	$translucent 1
+}

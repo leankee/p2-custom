@@ -1,0 +1,8 @@
+
+"VertexLitGeneric"
+{
+$baseTexture "models/portal_stories/props/hotel_light002.vtf"
+$envmap env_cubemap
+$basealphaenvmapmask 1
+
+}

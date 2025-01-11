@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$baseTexture "Wood/woodpanel_002"
+$surfaceprop wood
+"%keywords" Lp
+}

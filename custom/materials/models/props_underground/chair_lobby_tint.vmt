@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$basetexture "models/props_underground/chair_lobby_tint"
+$blendtintbybasealpha 1
+$surfaceprop default
+}

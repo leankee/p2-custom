@@ -1,0 +1,6 @@
+LightMappedGeneric
+{
+$basetexture "signage/signage_blue_gell_fizzler_off"
+$surfaceprop glass
+"%keywords" tag
+}

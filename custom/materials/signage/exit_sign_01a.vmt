@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "signage/exit_sign_01a"
+$decal 1
+$translucent 1
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	$basetexture "signage/clean_posters/gunad_50s"
+	$decal 1
+	$translucent 1
+	%keywords poster
+}

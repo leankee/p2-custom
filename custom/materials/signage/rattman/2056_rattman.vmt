@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	$basetexture "signage/rattman/2056_rattman"
+	$decal 1
+	$translucent 1
+	%keywords poster
+}

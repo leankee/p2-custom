@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+    $basetexture	"models/props/De_Vertigo/safetynet_01"
+    $bumpmap 	"models/props/De_Vertigo/safetynet_01_N"
+
+    $nocull 1
+    $AlphaTest 1
+    $AlphaTestReference 0.3 
+    $nodecal 1
+
+	// No phong for us, the areas are old and worn out.
+    // $phong 1
+    // $phongBoost 2
+    // $phongExponent 60
+    // $phongTint "[.9 1 1]"
+}
+

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	$basetexture "signage/dirty_posters/aegis_01_dirty"
+	$decal 1
+	$translucent 1
+	%keywords poster
+}

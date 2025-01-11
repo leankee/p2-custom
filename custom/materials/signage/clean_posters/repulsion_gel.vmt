@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	$basetexture "signage/clean_posters/repulsion_gel"
+	$decal 1
+	$translucent 1
+	%keywords poster
+}

@@ -1,0 +1,9 @@
+LightMappedGeneric
+	{
+	$baseTexture "josepezdj/nature/jose_seamless_rock_floor01"
+	$surfaceprop dirt
+	$bumpmap "josepezdj/nature/jose_seamless_rock_floor01_NRM"
+	$ssbump 1
+	"%keywords" "backstage,portal2"
+	"%noportal" 1
+	}

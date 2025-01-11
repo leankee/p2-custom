@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+$basetexture "models/portal_stories/props/metalwall060a"
+$surfaceprop metal
+"%noportal" 1
+}

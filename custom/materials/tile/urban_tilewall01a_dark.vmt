@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+
+$basetexture "Tile/urban_tilewall01a_dark"
+$surfaceprop tile
+$bumpmap "tile/urban_tilewall01a_ssbump"
+$ssbump 1
+"%keywords" portal_stories
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/camera/camera_mask"
+	"$model" 1
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$basetexture "models/props_bts/pillar_truss_tint"
+$blendtintbybasealpha 1
+$surfaceprop default
+}

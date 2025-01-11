@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props/written_story_comp7"
+	"$translucent" 1
+}

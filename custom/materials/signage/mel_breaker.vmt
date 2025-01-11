@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+$basetexture "signage/mel_breaker"
+$decal 1
+$translucent 1
+"%keywords" breaker
+}

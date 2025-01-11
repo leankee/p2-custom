@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	$basetexture "models/funnycomp/gen_computer_1_Diffuse"
+
+	$envmap "env_cubemap"
+	$envmaptint "[.1 .1 .1]"
+	//$envmapfresnel 1
+	//$envmapfresnelminmaxexp "[0 .02 2]"
+	$basealphaenvmapmask 1
+
+	$phong 1
+	$phongexponenttexture "models/funnycomp/gen_computer_1_exponent"
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongboost 0.8
+}

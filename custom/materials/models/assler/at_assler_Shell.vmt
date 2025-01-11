@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+$baseTexture "models\assler\at_assler_Shell"
+$bumpmap "models\assler\at_assler_Shell_nrm"
+$surfaceprop solidmetal
+$phong 1
+$phongexponent 50
+$phongfresnelranges "[.3 .6 4]"
+$phongboost ".6"
+$basemapalphaphongmask 1
+
+$rimlight "1" 
+$rimlightexponent "4" 
+$rimlightboost "0.2"
+}

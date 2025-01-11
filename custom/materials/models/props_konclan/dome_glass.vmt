@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "glass/glasswindow002a"
+	$model 1
+	$translucent 1
+}

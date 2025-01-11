@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "overlays/rog_number_05"
+	"$translucent" 1
+	"$decal" 1
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$color" "[0.7 0.7 0.7]"
+}

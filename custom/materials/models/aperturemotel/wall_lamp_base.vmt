@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$baseTexture "models/aperturemotel/wall_lamp_base"
+$surfaceprop metal
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/bottle_mel/bottle"
+	"$model" 1
+	"$translucent" 1
+}

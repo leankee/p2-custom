@@ -1,0 +1,8 @@
+Patch
+{
+	include materials/nature/toxicslime_a2_bridge_intro.vmt
+	insert
+	{
+		$reflect2dskybox 1
+	}
+}

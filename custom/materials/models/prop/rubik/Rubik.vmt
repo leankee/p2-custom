@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"models\prop\rubik\rubik"
+	"$bumpmap" "models\prop\rubik\rubik_normal"
+	"$phong" "1"
+	"$phongexponent" "1"
+//	"$phongboost" "1"	
+	"$phongfresnelranges"	"[1 2 3]"
+//	"$halflambert" "1"
+	"$phongexponenttexture" "models\prop\rubik\rubik_exp"
+	"$phongalbedotint" "1"	
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Lp/light_marble"
+	$surfaceprop concrete
+	"%keywords" Lp
+	"%noportal" 0
+}

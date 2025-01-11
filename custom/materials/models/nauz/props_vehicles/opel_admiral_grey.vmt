@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+
+{
+
+	"$baseTexture"			"models/nauz/props_vehicles/opel_admiral_grey"
+	"$bumpmap" "models/nauz/props_vehicles/opel_admiral_normal"
+	"$selfillum" 0
+	"$model" 1
+
+	//PHONG
+	"$phong" 1
+	"$phongboost" "2"
+	"$phongexponent" "100"
+	"$halflambert" "0"
+	"$phongfresnelranges"	"[0.2 10.2 50.2]"
+
+//SPECULAR
+"$surfaceprop"    "metal"
+"$envmap"    "env_cubemap"
+"$normalmapalphaenvmapmask" "1"
+"$envmaptint"    "[0.5 0.5 1.2]"
+"$envmapcontrast"   "1"
+}

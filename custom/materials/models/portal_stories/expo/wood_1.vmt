@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/portal_stories/expo/Wood_1"
+	"$bumpmap" "models/portal_stories/expo/Wood_1_normal"
+}

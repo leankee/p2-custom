@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+$basetexture "models/vallachan/npcs/rocket/circle_shield_dark"
+$surfaceprop metal
+$bumpmap "models/anim_wp/circle_shield/circle_shield_normal"
+$ssbump 1
+$selfillum 1
+
+$phong 1
+$phongboost 2
+$phongexponent 10
+$phongfresnelranges "[.1 .5 1]"
+}

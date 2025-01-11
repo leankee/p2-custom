@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture "models/conveyor/conveyor_belt_articulation_object_color"
+	$bumpmap "models/conveyor/belt_normal"
+
+	$phong 1
+	$phongfresnelranges "[0.2 0.6 1]"
+	$halflambert 1
+	$phongexponent 1
+	$phongboost 0.51
+	$phongalbedoboost 0
+	$basemapalphaphongmask 1
+

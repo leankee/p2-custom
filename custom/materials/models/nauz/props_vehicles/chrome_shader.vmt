@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"models/nauz/props_vehicles/chrome_shader"
+	"$bumpmap" "models/nauz/props_vehicles/chrome_normal"
+	"$model" 1
+	"$phong" 1
+	"$phongboost" "600"
+	"$phongexponent" "100"
+	"$halflambert" "0"
+	"$phongfresnelranges"	"[0.2 6.2 1.2]"
+	
+
+	 "$surfaceprop"    "metal"
+        "$envmap"    "env_cubemap"
+ "$normalmapalphaenvmapmask" "1"
+
+        "$envmaptint"    "[1.00 1.00 1.00]"
+ "$envmapcontrast"   "1"
+}

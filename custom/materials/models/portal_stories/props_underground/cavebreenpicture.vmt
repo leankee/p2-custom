@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/portal_stories/props_underground/cavebreenpicture_d"
+	"$envmap" env_cubemap
+	$basemapalphaphongmask 1
+	$phong        "1"
+	$phongexponent 5
+	$phongboost 1
+	$phongfresnelranges	"[0.5 0.5 0.5]"
+}

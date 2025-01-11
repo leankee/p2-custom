@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/portal_stories/props/revolvingdoor/RevDoor_Housing"
+	"$bumpmap" "models/portal_stories/props/revolvingdoor/RevDoor_Housing_n"
+	"$basealphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .9 .84 .6 ]"
+	"$surfaceprop" "Wood_Solid"
+}

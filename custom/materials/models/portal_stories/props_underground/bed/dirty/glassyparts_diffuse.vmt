@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/portal_stories/props_underground/bed/Glassyparts_diffuse"
+	"$envmap" env_cubemap
+	$translucent 1
+}
