@@ -1190,6 +1190,36 @@ hidden
 		}
 	}
 }
+entity
+{
+	"id" "233"
+	"classname" "env_sprite"
+	"angles" "0 270 -90"
+	"disablereceiveshadows" "0"
+	"disablex360" "0"
+	"framerate" "10.0"
+	"glowproxysize" "8"
+	"hdrcolorscale" ".5"
+	"maxcpulevel" "0"
+	"maxgpulevel" "0"
+	"mincpulevel" "0"
+	"mingpulevel" "0"
+	"model" "sprites/light_glow02.vmt"
+	"renderamt" "150"
+	"rendercolor" "183 204 218"
+	"renderfx" "0"
+	"rendermode" "9"
+	"scale" "2.6"
+	"spawnflags" "1"
+	"origin" "0 0 -64"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 -2768]"
+	}
+}
 cameras
 {
 	"activecamera" "-1"
