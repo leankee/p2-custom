@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "skybox/sea_sunsetdn"
+	"$baseTextureTransform" "center 0 0 scale 1 1  rotate 270 translate 0 1"
+	"$nofog" 1
+	"$ignorez" 1
+}

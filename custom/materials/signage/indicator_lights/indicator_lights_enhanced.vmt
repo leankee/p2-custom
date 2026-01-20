@@ -1,0 +1,22 @@
+UnlitGeneric
+{
+$baseTexture "signage/indicator_lights/indicator_lights_enhanced"
+
+$basetexturetransform	"center 0.25 0.25 scale 1 1 rotate 0 translate 0 0"
+
+$surfaceprop glass
+$translucent 1
+
+"%keywords" portal
+$decal 1
+$decalscale "0.25"
+Proxies
+{
+ToggleTexture
+{
+toggleTextureVar $baseTexture
+toggleTextureFrameNumVar $frame
+toggleTextureShouldWrap 0
+}
+}
+}
